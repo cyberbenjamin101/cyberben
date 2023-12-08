@@ -18,16 +18,16 @@ function Details() {
         Name: <span className="namespan">Daniel Atewe ChukwuEmeka</span>
       </p>
       <p>
-        Mat. No: <span className="matnospan">9999999</span>
+        Mat. No: <span className="matnospan">FET/MEE/21/73201</span>
       </p>
       <p>
-        level <span className="levelspan">200</span>
+        level <span className="levelspan">200 LVL</span>
       </p>
       <p>
-        Course: <span className="coursespan">CMS201</span>
+        Course: <span className="coursespan">GEE 203</span>
       </p>
       <p>
-        Dept: <span className=""> Electrical Engineering</span>
+        Dept: <span className=""> Mechanical Engineering</span>
       </p>
     </div>
   );
@@ -47,7 +47,7 @@ function Result() {
       <div>
         <div className="flex">
           <p>Course</p>
-          <p>CMS 202</p>
+          <p>GEE 203</p>
         </div>
 
         <div className="flex">
